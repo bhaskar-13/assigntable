@@ -1,0 +1,47 @@
+table{
+    position: relative;
+    bottom: 83vh;
+    left: 55vw;
+    display: none;
+    
+    
+}
+
+body{
+    margin:0;
+    padding:0;
+    background-color: burlywood;
+    font-family: cursive;
+}
+h1{
+    margin-left: 20rem;
+}
+
+.maincontainer{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15vw;
+}
+
+
+input,select{
+    max-width:20rem;
+    
+}
+
+.side{
+    display: flex;
+    margin-bottom: 10px;
+    flex-direction: column;
+}
+.button{
+    width: 15rem;
+    height: 2rem;
+    margin-left: 3rem;
+
+}
+
+
+
+
+
